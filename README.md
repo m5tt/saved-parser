@@ -4,9 +4,8 @@ Reddit saved content parser
 saved-parser parses and organizes your reddit saved content
       
 ## Usage: 
-  * Fill out the dict in catagories-stub.py
-   ..* Each key is a different catagory. The value is 
-   ... a list of subreddits belonging to that catagory.
+  * Fill out the dict in `catagories-stub.py`. Each key is a different catagory. The value is 
+    a list of subreddits belonging to that catagory.
       
   * Run catagories-stub.py, it will store the dict in a file `catagories.pickle`
       
